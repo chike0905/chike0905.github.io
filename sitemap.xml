@@ -1,147 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://chike0905.github.io/publication_types/7/</loc>
-    <lastmod>2019-02-01T00:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/authors/</loc>
-    <lastmod>2019-02-01T00:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/publication/abe-2019/</loc>
-    <lastmod>2019-02-01T00:00:00+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/publication_types/</loc>
-    <lastmod>2019-02-01T00:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/publication/</loc>
-    <lastmod>2019-02-01T00:00:00+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/authors/ryosuke-abe/</loc>
-    <lastmod>2019-02-01T00:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/</loc>
-    <lastmod>2019-02-01T00:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/publication_types/1/</loc>
-    <lastmod>2018-11-01T00:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/publication/abe-2018-a/</loc>
-    <lastmod>2018-11-01T00:00:00+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/authors/jun-murai/</loc>
-    <lastmod>2018-11-01T00:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/authors/keita-nakamura/</loc>
-    <lastmod>2018-11-01T00:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/authors/kentaro-teramoto/</loc>
-    <lastmod>2018-11-01T00:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/authors/misato-takahashi/</loc>
-    <lastmod>2018-11-01T00:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/publication/abe-2018/</loc>
-    <lastmod>2018-11-01T00:00:00+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/authors/shigeya-suzuki/</loc>
-    <lastmod>2018-11-01T00:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/authors/atsushi-nakadaira/</loc>
-    <lastmod>2018-07-01T00:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/authors/hiroki-watanabe/</loc>
-    <lastmod>2018-07-01T00:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/authors/shigenori-ohashi/</loc>
-    <lastmod>2018-07-01T00:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/authors/shigeru-fujimura/</loc>
-    <lastmod>2018-07-01T00:00:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/publication/abe-2018-b/</loc>
-    <lastmod>2018-07-01T00:00:00+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/publication/abe-2017-a/</loc>
-    <lastmod>2017-02-01T00:00:00+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://chike0905.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://chike0905.github.io/en/sitemap.xml</loc>
+		
+	   	<lastmod>2019-02-01T00:00:00+07:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://chike0905.github.io/ja/sitemap.xml</loc>
+		
+	   	<lastmod>2019-02-01T00:00:00+07:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

@@ -1,0 +1,77 @@
+@article{Abe2017a,
+abstract = {近年，デジタルファブリケーションと呼ばれるデジタル工作機器を用いたものづくりが急速に普及している．既存のメーカによる大量集中生産とは異なり，各個人が分散的に少量の製造を行う流れもできつつある．設計図となる 3D モデルは，個人で作成したものや，インターネット上で公開されたものを複製または改変したものが利用されている．しかしながら，製造物の設計図や製造者などの情報を保存しなければ製造責任や知的財産権の所在を明らかにすることは難しい．製造責任や知的財産権の所在を明らかにするには，誰でもデータを参照できるという“公開性”，製造物に紐づけられた情報の“追跡可能性”，また製造以降不正に改ざんがされていない “完全性”が必要とされる．藤吉らにより，製造物の管理のためにRFIDを製造物に埋め込むことで，情報と製造物を紐付けることは達成されたが，未だ上記の問題は未解決である．
+そこで本研究では，Blockchain技術を用い，公開台帳上に製造情報を保存することで必要条件を満たし，製造責任や知的財産権の所在を明らかにすることができるのではないかと考えた．Blockchain技術は，P2Pネットワーク上で分散的に公開台帳を形成し，入力データの検証を相互に行い保存することでデータの完全性を担保するシステムである．
+本手法を検証するために，シングルボードコンピュータで3Dプリンタの制御を行い，Blockchainノードとすることで，Blockchain上に製造情報を保存する実装を行った．この実装を用いて，上記の “公開性”，“追跡可能性”，“完全性”の各項目において検証を行った．これにより，本実験システムでは製造物の製造情報の追跡と，製造者自身が設計図の製作者である場合の製造責任や知的財産権の所在を明らかにすることができる．
+本研究の成果により，個人的な製造でも製造責任や権利の所在を明らかにすることができる．このシステムは，製造者にとっては責任が追及される事故が起こらないような質で製造を行わないためのディスインセンティブとなる．また，本手法を応用してBlockchain上で設計図の流通も管理することで，3D プリンタで製造された製造物を知的財産として管理することができる.},
+author = {阿部涼介},
+month = {feb},
+year = {2017},
+title = {3D プリントにおけるBlockchainを用いた製造情報管理システム},
+booktitle ={慶應義塾大学 総合政策学部 卒業論文},
+url = {http://web.sfc.wide.ad.jp/~chike/thesis/thesis.pdf}
+}
+
+@inproceedings{abe2017b,
+abstract = {デジタルファブリケーションの普及を背景に，インターネット上で公開された設計図データを入手し，個人の環境に合わせて改変，製造を行うといった，パーソナルファブリケーションと呼ばれる個人的な製造が積極的に行われている．そうした中で，個人で製造物の製造者，設計者のデータを管理しておくことは困難である．パーソナルファブリケーションにおける製造物のデータ管理においては公開性，完全性，追跡可能性の3点が求められる．そこで，本研究ではP2Pネットワーク上でデータが検証されたことを合意し公開台帳を形成するシステムであるBlockchainを用いて製造物の情報の保存を行うことで3点の要件を担保できると考えた．実験システムとして，Raspberry Pi3で3Dプリンタの制御を行いプリント実行時にEthereum Blockchain上に製造物の情報を保存するシステムを実装した．上記3点の要件に対して評価を行い，要件が満たされていることを確認した.},
+author = "阿部涼介 and 斉藤賢爾 and 村井純",
+title = "パーソナルファブリケーション時代におけるBlockchainを用いた製造情報保存システム",
+booktitle = "マルチメディア，分散協調とモバイルシンポジウム2017論文集",
+year = "2017",
+volume = "2017",
+number = "",
+pages	= "1045--1054",
+month	= "jun",
+url = {https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=190154&item_no=1}
+}
+
+@article{Abe2019,
+abstract = {In Bitcoin, to independently verify whether new transactions are correct or not, a type of a node called "Full Node" has to hold the whole of historical transactions. The transactions are stored in ledger called "Blockchain. " Blockchain is an append-only data structure. Thus, to operate Full Nodes, the required storage capacity would grow too large for resource-constrained devices. Due to the limitation, the existing lightweight node scheme is that a node relies on other Full Nodes. In this thesis, to reduce storage capacity with keeping the independence of each node, we propose a storage load balancing scheme "KARAKASA" using Distributed Hash Table (DHT). In KARAKASA, nodes distributedly keep the whole blockchain among DHT networked nodes. We evaluated KARAKASA from the view of storage capacity and independence. As a result, a node in a cluster does not need to trust other nodes. We concluded that nodes in a DHT cluster can behave like Full Nodes without holding the whole blockchain.},
+archivePrefix = {arXiv},
+arxivId = {1902.02174},
+author = {Abe, Ryosuke},
+eprint = {1902.02174},
+month = {feb},
+title = {{Blockchain Storage Load Balancing Among DHT Clustered Nodes}},
+url = {http://arxiv.org/abs/1902.02174},
+year = {2019},
+booktitle = {慶應義塾大学大学院 政策・メディア研究科 修士論文}
+}
+@inproceedings{Abe2018,
+abstract = {A type of Bitcoin node called" Full Node" has to hold the entire of historical transaction data called" Blockchain" to verify that new transactions are correct or not. To operate nodes as Full Nodes, the required storage size will be too large for resource-constrained devices. In this paper, to mitigate storage size, we propose a storage load balancing scheme by distributed storage based on Distributed Hash Table (DHT). By our scheme, nodes in a DHT cluster can behave like Full Nodes without holding the entire of the blockchain.},
+address = {New York, New York, USA},
+author = {Abe, Ryosuke and Suzuki, Shigeya and Murai, Jun},
+doi = {10.1145/3289166.3289169},
+isbn = {9781450361316},
+journal = {Proceedings of the Asian Internet Engineering Conference on   - AINTEC '18},
+pages = {17--23},
+publisher = {ACM Press},
+title = {{Mitigating Bitcoin Node Storage Size By DHT}},
+url = {http://dl.acm.org/citation.cfm?doid=3289166.3289169},
+year = {2018},
+month = {Nov}
+}
+@inproceedings{Abe2018a,
+abstract = {In a consensus algorithm based on Proof-of-Work, miners are motivated by crypto rewards. Furthermore, security is guaranteed because a cost of a 50% attack chance is higher than the potential rewards. However, because of the sudden price jump of cryptocurrencies and cheap prices of mining machines like ASICs, the cost and profit were on equilibrium for Bitcoin in 2017. In this situation, attackers are motivated by the balance between hash power and profits. In this paper, we describe that there is relevance between mining power on the network and price of tokens that can be taken securely on a blockchain. Users who exchange tokens on the PoW blockchain should monitor mining power and exchange tokens cheaper than the attack cost so that profit and cost of the attacker are not in equilibrium.},
+address = {New York, New York, USA},
+author = {Abe, Ryosuke and Nakamura, Keita and Teramoto, Kentaro and Takahashi, Misato},
+doi = {10.1145/3289166.3289171},
+isbn = {9781450361316},
+journal = {Proceedings of the Asian Internet Engineering Conference on   - AINTEC '18},
+pages = {32--37},
+publisher = {ACM Press},
+title = {{Attack Incentive and Security of Exchanging Tokens on Proof-of-Work Blockchain}},
+url = {http://dl.acm.org/citation.cfm?doid=3289166.3289171},
+year = {2018},
+month = {Nov}
+}
+@inproceedings{Abe2018b,
+abstract = {There are several studies that propose identity management that utilizes blockchain technology. In Ethereum, the main programmable blockchain system, data on a blockchain are saved as encoded binaries for executing automatic verification. To decode a binary, users need to know the application binary interfaces (ABI) that describes the data structure of the registered information. However, the manner by which ABI are shared in the current blockchain protocol is opaque. To resolve this problem, we describe a new protocol for embedding the ABI on a blockchain transaction when a registrant registers information. Our method enables users to read registered data with information on the blockchain alone, and it guarantees transparency without requiring users to trust third parties.},
+author = {Abe, Ryosuke and Watanabe, Hiroki and Ohashi, Shigenori and Fujimura, Shigeru and Nakadaira, Atsushi},
+booktitle = {2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC)},
+doi = {10.1109/COMPSAC.2018.10298},
+isbn = {978-1-5386-2666-5},
+title = {{Storage Protocol for Securing Blockchain Transparency}},
+year = {2018},
+month = {Jul}
+}
+

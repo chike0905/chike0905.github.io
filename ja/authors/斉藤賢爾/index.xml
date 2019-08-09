@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> 斉藤賢爾 | Ryosuke Abe</title>
+    <link>https://chike0905.github.io/ja/authors/%E6%96%89%E8%97%A4%E8%B3%A2%E7%88%BE/</link>
+      <atom:link href="https://chike0905.github.io/ja/authors/%E6%96%89%E8%97%A4%E8%B3%A2%E7%88%BE/index.xml" rel="self" type="application/rss+xml" />
+    <description> 斉藤賢爾</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0700</lastBuildDate>
+    <image>
+      <url>https://chike0905.github.io/img/icon-192.png</url>
+      <title> 斉藤賢爾</title>
+      <link>https://chike0905.github.io/ja/authors/%E6%96%89%E8%97%A4%E8%B3%A2%E7%88%BE/</link>
+    </image>
+    
+    <item>
+      <title>パーソナルファブリケーション時代におけるBlockchainを用いた製造情報保存システム</title>
+      <link>https://chike0905.github.io/ja/publication/abe-2017-b/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0700</pubDate>
+      <guid>https://chike0905.github.io/ja/publication/abe-2017-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
